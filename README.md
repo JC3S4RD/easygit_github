@@ -9,5 +9,7 @@
 | git rm      | Remove um arquivo                            |
 | git commit  | Grava os arquivos adicionados ou alterados   |
 | git status  | Lista o status dos arquivos                  |
+| git pull    | Baixa os arquivos do git remoto para o local |
+| git push    | Envia os arquivos do git local para o remoto |
 
 *Estudo de git_github
