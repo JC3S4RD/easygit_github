@@ -2,12 +2,12 @@
 
 ## Commands used
 
-|   command   | about                                            |
-|-------------|--------------------------------------------------|
-| git init    |                                                  |
-| git add     |                                                  |
-| git rm      |                                                  |
-| git commit  | Esse comando vai gravar os arquivos adicionados  |
-| git status  | Esse comando vai listar o status dos arquivos    |
+|   command   | about                                        |
+|-------------|----------------------------------------------|
+| git init    | Inicia um projeto com versionamento pelo Git |
+| git add     | Adiciona um arquivo ou alterações            |
+| git rm      | Remove um arquivo                            |
+| git commit  | Grava os arquivos adicionados ou alterados   |
+| git status  | Lista o status dos arquivos                  |
 
-*Estudo de git_github e english
+*Estudo de git_github
